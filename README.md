@@ -33,10 +33,10 @@ Course basic descriptions
 - **Week-1 (Generic)**
     - [x]  W-1.00 Course Introduction & Course Benefits
     - [x]  W-1.01 What is Data Science?
-    - [ ]  W-1.02 Life-cycle of data science project
-    - [ ]  W-1.03 Installation of Anaconda Navigator
-    - [ ]  W-1.04 How to Run Python code
-    - [ ]  W-1.05 Quick Summary of Jupyter Notebook
+    - [x]  W-1.02 Life-cycle of data science project
+    - [x]  W-1.03 Installation of Anaconda Navigator
+    - [x]  W-1.04 How to Run Python code
+    - [x]  W-1.05 Quick Summary of Jupyter Notebook
     - [ ]  W-1.06 Basic Python Syntax
     - [ ]  W-1.07 Magic-Commands
     - [ ]  W-1.08 Timing-and-Profiling
